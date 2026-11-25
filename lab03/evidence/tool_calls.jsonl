@@ -1,0 +1,2 @@
+{"timestamp": "2026-11-25T16:37:30.287322+00:00", "tool": "check_stock", "arguments": {"item": "amoxicillin", "strength": "500mg"}, "result_summary": "{\n  \"item\": \"Amoxicillin\",\n  \"strength\": \"500mg\",\n  \"form\": \"capsules (pack of 21)\",\n  \"quantity\": \"40\",\n  \"unit_price_ghs\": \"35.00\",\n  \"expiry_date\": \"2027-12-30\"\n}", "duration_ms": 12.7}
+{"timestamp": "2026-11-25T16:38:17.171047+00:00", "tool": "search_items", "arguments": {"query": "Blessing"}, "result_summary": "", "duration_ms": 7.2}
